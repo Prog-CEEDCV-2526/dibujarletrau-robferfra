@@ -30,7 +30,7 @@ class DibujarLetraUTest {
                 "*   *\n" +
                 "*   *\n" +
                 "*   *\n" +
-                " ****\n";
+                " *** \n";
 
         assertEquals(esperat, resultat);
     }
